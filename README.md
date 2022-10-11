@@ -1,7 +1,7 @@
 Q1- What is Node JS 
 Ans-- 
     node.js is an open-source, cross-platform,javascript runtime enviroment built on chrome's v8 javascript engine that executes javascript code outside a web browser 
-
+<br/>
 node js open source server enviroments its allow us to run on the server
 
 it is a intermidiate between the frond end and the backend
